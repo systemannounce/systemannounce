@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @systemannounce
 - 👀 I’m interested in computr,C++,hardware,ething
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on steam:Felix_SANA
+- 💞️ NONE
+- ❌I’m looking to collaborate on steam:Felix_SANA
 - 📫 How to reach me ...
 
 <!---
