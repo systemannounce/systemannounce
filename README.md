@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @systemannounce
-- 👀 I’m interested in computr, C++, Python, hardware, ething
+- 👀 I’m interested in computer, C++, Python, hardware, ething
 - 🌱 I’m currently learning ...
 - 💞️ NONE
 - ❌I’m looking to collaborate on steam:Felix_SANA
