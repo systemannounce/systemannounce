@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @systemannounce
-- 👀 I’m interested in computer, C++, Python, hardware, ething
-- 🌱 I’m currently learning ...
-- 💞️ NONE
-- ❌I’m looking to collaborate on steam:Felix_SANA
-- 📫 How to reach me ...
+- 👋 Hello, my name is Felix SANA
+- ▶️ I majored in embedded development and automation.  
+- 🌱 Update open source communities and websites with your own interest and enthusiasm.  
+- 📫 The ones I can currently use are: C++, Python.  
+- 👀 Hardware platforms include: 8051, STM32, ESP32, etc.
 
 <!---
 systemannounce/systemannounce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
