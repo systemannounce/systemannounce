@@ -2,9 +2,9 @@
 <div align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=systemannounce&show_icons=true" alt="">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=systemannounce&layout=compact&langs_count=8&hide=HTML" alt="Wechat">
-    <a href="https://www.systemannounce.com">
+    <!--<a href="https://www.systemannounce.com">
         <img src="https://cdn.jsdelivr.net/gh/systemannounce/piceeimg/2024/image-20240507013218393.png" width="170px" alt="Remilia Scarlet">
-    </a>
+    </a>-->
 </div>
 
 - 👋 Hello, my name is Felix SANA
