@@ -1,7 +1,7 @@
 <!-- <img align="right" src="https://cdn.jsdelivr.net/gh/systemannounce/piceeimg/2024/image-20240507014522162.png" width="200px" style="visibility:hidden" /> -->
 <div align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=systemannounce&show_icons=true&count_private=true&include_all_commits=true&theme=vue&hide=prs" alt="">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=systemannounce&layout=compact&langs_count=6&hide=HTML,batchfile&theme=buefy" alt="Wechat">
+    <img src="https://stars.systemannounce.com/api?username=systemannounce&include_all_commits=true&show_icons=true&count_private=true&hide=prs&theme=vue" alt="STARS">
+    <img src="https://stars.systemannounce.com/api/top-langs/?username=systemannounce&layout=compact&langs_count=6&hide=HTML,batchfile,css,cmake,scss&size_weight=0.5&count_weight=0.5&theme=buefy&exclude_repo=null" alt="LANGUAGE">
     <!--<a href="https://www.systemannounce.com">
         <img src="https://cdn.jsdelivr.net/gh/systemannounce/piceeimg/2024/image-20240507013218393.png" width="170px" alt="Remilia Scarlet">
     </a>-->
