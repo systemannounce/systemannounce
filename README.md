@@ -7,11 +7,11 @@
     </a>-->
 </div>
 
-- 👋 Hello, my name is Felix SANA
+- 👋 Hello, my name is Felix SANA  
 - ▶️ I majored in embedded development and automation.  
 - 🌱 Update open source communities and websites with your own interest and enthusiasm.  
-- 📫 The ones I can currently use are: C++, Python.  
-- 👀 Hardware platforms include: 8051, STM32, ESP32, etc.
+- 📫 The ones I can currently use are: C++, Python, JavaScript.  
+- 👀 Hardware platforms include: 8051, STM32, ESP32, etc.  
 > Currently using Notion to help manage study notes and knowledge...
 
 <!---
